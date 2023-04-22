@@ -25,3 +25,7 @@ deleted outliners.
  ## You can Interact with the Dash Board [here]([url](https://app.powerbi.com/view?r=eyJrIjoiZTE1YmJhMzEtZDNlYi00NmFhLWE3NjItZmM2MGJmMTM3NmZiIiwidCI6IjA1NmU1MmZmLTNmY2ItNGY2Yi04MjUxLTQ4MWVhMTIwZmQ0MSJ9))
 
 ![](Dashboard_Customer_seg.jpg)
+
+## Summary of My findings
+* The supermaket have two Customer Segments, Premium_customers( Segmentation based on financial status), Life_stage( segmentation based on Age, Marital status). Premium_customers Segment is divided into three ( Budget , Mainstream and Premium), in this segment, mainstream customers generated more revenue, its sales accounting for 38.8% of the total sales . while the LIfe_stage segement divided 7, Older singles and couples generated the most sales, comprising 20.8% of the total sales.
+* The Top Customers are people in the Mainstream Young singles and couples segment. They are willing to spend more money per order.
