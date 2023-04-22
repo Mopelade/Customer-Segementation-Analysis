@@ -12,3 +12,12 @@ The supermarket  particularly interested in customer segments and their chip pur
 * The Pack size top customer they will most likely and less likely buy.
 * Detailes sales performance analysis.
 
+## Projects Process
+* Imported the dataset Into R.Studio
+* Examine transaction data – look for inconsistencies, missing data across the data set, outliers, correctly identified category items, numeric data across all tables.
+deleted outliners.
+* Examine customer data – checked for similar issues in the customer data, looked for nulls 
+* Explored the data, created charts and graphs as well as noted any interesting trends and/or insights I found.
+* I created new columns for Brand_name and pack size, so I can analyse these columns separately.
+* I merged both Dataset to perfoem the affinity score analysis, to identify Brands and pack size top customer will most likley and less likely buy.
+
