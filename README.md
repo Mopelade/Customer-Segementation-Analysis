@@ -22,6 +22,6 @@ deleted outliners.
 * I merged both Dataset to perfoem the affinity score analysis, to identify Brands and pack size top customer will most likley and less likely buy.
 * I imported the merged dataset to PowerBi for Visualization.
 
-You can Interact with the Dash Board [here]([url](https://app.powerbi.com/view?r=eyJrIjoiZTE1YmJhMzEtZDNlYi00NmFhLWE3NjItZmM2MGJmMTM3NmZiIiwidCI6IjA1NmU1MmZmLTNmY2ItNGY2Yi04MjUxLTQ4MWVhMTIwZmQ0MSJ9))
+ ## You can Interact with the Dash Board [here]([url](https://app.powerbi.com/view?r=eyJrIjoiZTE1YmJhMzEtZDNlYi00NmFhLWE3NjItZmM2MGJmMTM3NmZiIiwidCI6IjA1NmU1MmZmLTNmY2ItNGY2Yi04MjUxLTQ4MWVhMTIwZmQ0MSJ9))
 
 
