@@ -10,7 +10,7 @@ The supermarket  particularly interested in customer segments and their chip pur
 ## In this Sales Performance Analysis Report, I provided insights like:
 * Top customers and chips they wil most likely and less likely buy.
 * The Pack size top customer they will most likely and less likely buy.
-* Detailes sales performance analysis.
+* Detailed sales performance analysis.
 
 ## Projects Process
 * Imported the dataset Into R.Studio
@@ -20,4 +20,6 @@ deleted outliners.
 * Explored the data, created charts and graphs as well as noted any interesting trends and/or insights I found.
 * I created new columns for Brand_name and pack size, so I can analyse these columns separately.
 * I merged both Dataset to perfoem the affinity score analysis, to identify Brands and pack size top customer will most likley and less likely buy.
+* I imported the merged dataset to PowerBi for Visualization.
 
+You can Interact with the Dash Board [here]([url](https://app.powerbi.com/view?r=eyJrIjoiZTE1YmJhMzEtZDNlYi00NmFhLWE3NjItZmM2MGJmMTM3NmZiIiwidCI6IjA1NmU1MmZmLTNmY2ItNGY2Yi04MjUxLTQ4MWVhMTIwZmQ0MSJ9))
