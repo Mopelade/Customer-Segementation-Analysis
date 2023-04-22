@@ -1,5 +1,7 @@
 # Customer-Segementation-Analysis
 
+![](files/seg2.jpg)
+
 I performed an intensive exploration data analysis with R. programming from Quantium Virtual Internship dataset and I conducted customer segementation analysis.
 
 Quantium has had a data partnership with a large supermarket brand for the last few years who provide transactional and customer data. Supermarkets will regularly change their store layouts, product selections, prices and promotions. This is to satisfy their customer’s changing needs and preferences, keep up with the increasing competition in the market or to capitalise on new opportunities.
@@ -29,3 +31,12 @@ deleted outliners.
 ## Summary of My findings
 * The supermaket have two Customer Segments, Premium_customers( Segmentation based on financial status), Life_stage( segmentation based on Age, Marital status). Premium_customers Segment is divided into three ( Budget , Mainstream and Premium), in this segment, mainstream customers generated more revenue, its sales accounting for 38.8% of the total sales . while the LIfe_stage segement divided 7, Older singles and couples generated the most sales, comprising 20.8% of the total sales.
 * The Top Customers are people in the Mainstream Young singles and couples segment. They are willing to spend more money per order.
+
+## key Recommendations
+1. Use Targeted Advertising :  The mainstream Young singles and couples are most likely going to buy 270g pack size, Twisties Brand is the only brand offering this size. Twisties Cheese chips and Twisties Chicken chips 270g should be advertised towards this segment, as long side Tyrrells chips. And Offer Tyrrells in 270g pack size, as it would improve sales .
+
+2 . Offer Promotions and incentives: For  Less performing products, offer promotions or incentives to increase revenue. This could be discount or free shipping.
+
+3.  Offer Healthy chips: Provide more healthy chips to be consumed by Customers in the Premium segment, as they tends to spend more on healthy snacks, this will improve sales.
+
+4.  Offer a wide range of chips and variety in pack size (270g, 380g) that meets the need of customers.
